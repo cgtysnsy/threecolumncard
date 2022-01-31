@@ -41,12 +41,15 @@ h1 {
   font-family: "Big Shoulders Display", sans-serif;
   font-weight: 700;
   flex-basis: 30%;
+  margin-bottom: -15px;
 }
 p {
   color: hsla(0, 0%, 100%, 0.75);
   font-family: "Lexend Deca", sans-serif;
   font-weight: 400;
   flex-basis: 80%;
+  line-height: 1.5;
+  font-size: 14px;
 }
 .second {
   display: flex;
@@ -86,6 +89,7 @@ img {
   padding: 8px 2px;
   max-width: 120px;
   flex-basis: 10%;
+  border: none;
 }
 
 .attribution {
